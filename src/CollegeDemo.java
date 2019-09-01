@@ -1,4 +1,8 @@
 import java.util.Scanner;
+
+/*
+ * @author Kapil kumar
+ */
 public class CollegeDemo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
