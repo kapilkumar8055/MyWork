@@ -8,3 +8,10 @@ public class CollegeDemo {
     }
 
 }
+
+class College {
+    String name;
+    String branch;
+    string course;
+    int universityRollNo;
+}
